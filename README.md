@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋!</h1>
 <div align="center">
   <a href="https://twitter.com/Friezer_85" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Friezer_85-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a rel="me" href="https://mastouille.fr/@friezer">Mastodon</a>
+  <a rel="me" href="https://mastouille.fr/@friezer">Mastodon</a><img src="https://img.shields.io/badge/Mastodon-Friezer?style=for-the-badge&logo=mastodon" alt="Mastouille" /></a>
   <a href="https://twitch.tv/friezer_85" target="_blank"><img src="https://img.shields.io/badge/Twitch-@friezer_85-purple?style=for-the-badge&logo=twitch" alt="Twitch" /></a>
   <a href="https://discord.gg/E8g7wA5sdP" target="_blank"><img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord" alt="Mon Discord" /></a>
   <br />
