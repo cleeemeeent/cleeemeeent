@@ -3,6 +3,6 @@
 </div>
 <p align="center">I’m Anglicus !</p>
 <h2 align="center">My statistics :</h2>
-<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anglicus-eu&theme=material-palenight&show_icons=true"></p></a>
-<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anglicus-eu&layout=compact&theme=material-palenight"></p></a>
+<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=clementme&theme=material-palenight&show_icons=true"></p></a>
+<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementme&layout=compact&theme=material-palenight"></p></a>
 <h3 align="center">I love coding and hardware...</h3>
